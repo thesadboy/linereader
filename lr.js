@@ -4,7 +4,7 @@ var path = require('path');
 var util = require('util');
 var EventEmitter = process.EventEmitter;
 
-var LineReader = exports.LineReader = function(pathorstream, options) {
+var LR = exports.LR = function(pathorstream, options) {
   options = options || {
     flags: 'r',
     encoding: 'utf8',
@@ -31,4 +31,4 @@ var LineReader = exports.LineReader = function(pathorstream, options) {
   });
 };
 
-util.inherits(LineReader, EventEmitter);
+util.inherits(LR, EventEmitter);
