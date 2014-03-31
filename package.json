@@ -1,5 +1,5 @@
 {
-  "name": "lr",
+  "name": "node-lr",
   "version": "0.0.0",
   "description": "read text file line by line.",
   "main": "line_reader.js",

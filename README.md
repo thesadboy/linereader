@@ -4,10 +4,10 @@ linereader
 a module for nodejs with reading text file line by line
 
 ## Install
-```npm i lr --save```
+```npm i node-lr --save```
 ## Usage
 ```
-var LR = require('lr').LR;
+var LR = require('node-lr').LR;
 var path = require('path');
 
 var lr = new LR(path.join(__dirname, 'test.txt'));
