@@ -1,0 +1,16 @@
+{
+  "name": "linereader",
+  "version": "0.0.0",
+  "description": "read text file line by line.",
+  "main": "line_reader.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "readline",
+    "linereader",
+    "text"
+  ],
+  "author": "thesadboy@qq.com",
+  "license": "MIT"
+}
