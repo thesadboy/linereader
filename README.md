@@ -4,7 +4,7 @@ linereader
 a module for nodejs with reading text file line by line
 
 ## Install
-```npm i linereader --save
+```npm i linereader --save```
 ## Usage
 ```
 var LineReader = require('./line_reader').LineReader;
