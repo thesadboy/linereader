@@ -11,6 +11,10 @@
     "linereader",
     "text"
   ],
-  "author": "thesadboy@qq.com",
+  "author": "thesadboy<thesadboy@qq.com>",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/thesadboy/linereader.git"
+  },
   "license": "MIT"
 }
